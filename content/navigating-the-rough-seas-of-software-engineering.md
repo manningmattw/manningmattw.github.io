@@ -2,7 +2,6 @@ title: Navigating the Rough Seas of Software Engineering
 date: 12/11/2024
 author: Matthew Manning
 
-![Matthew Manning][manning_headshot]
 
 # Navigating the Rough Seas of Software Engineering
 
@@ -29,23 +28,9 @@ AI is a tool, and if used correctly at the appropriate times, it can be a very v
 ### Example AI Content "First post to describe this blog"
 ```
 <AI model="Chat-GPT GPT-4o" unaltered="True" input=
-"Write a one paragraph short blurb for my first blog post in this blog. Have it
-generalize several of the most controversial topics in software engineering
-into simple phrases for the paragraph.">
+"Write a one paragraph short blurb for my first blog post in this blog. Have it generalize several of the most controversial topics in software engineering into simple phrases for the paragraph.">
 
-Welcome to my blog, where we’ll explore the ever-evolving landscape of software
-engineering, from the thrilling debates about tabs vs. spaces to the deeper
-questions of remote work versus office culture. We’ll dive into the art of
-balancing innovation with technical debt, unravel the complexities of AI’s role
-in the future of development, and tackle the timeless dilemma of scaling teams
-without losing the spark of creativity. Whether you’re here to learn about the
-job market, seek career growth strategies, or find guidance on mentoring the
-next generation of developers, this space is your compass in navigating the
-challenges and opportunities of our field. Let’s build, break, and rebuild
-better—together.</AI>
+Welcome to my blog, where we’ll explore the ever-evolving landscape of software engineering, from the thrilling debates about tabs vs. spaces to the deeper questions of remote work versus office culture. We’ll dive into the art of balancing innovation with technical debt, unravel the complexities of AI’s role in the future of development, and tackle the timeless dilemma of scaling teams without losing the spark of creativity. Whether you’re here to learn about the job market, seek career growth strategies, or find guidance on mentoring the next generation of developers, this space is your compass in navigating the challenges and opportunities of our field. Let’s build, break, and rebuild better—together.</AI>
 ```
 
 Umm, sure, Chat-GPT, I might post about that stuff, but only time will tell.
-
-
-[manning_headshot]: {static}/images/headshot.jpg
