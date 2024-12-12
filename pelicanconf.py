@@ -33,6 +33,17 @@ DEFAULT_PAGINATION = 10
 # RELATIVE_URLS = True
 
 
+MARKDOWN = {
+    'extension_configs': {
+        'markdown.extensions.codehilite': {
+            'css_class': 'highlight',
+            'linenums': False,
+        },
+    },
+    'output_format': 'html5',
+}
+
+
 # Foundation Default Colours Theme Settings
 FOUNDATION_FRONT_PAGE_FULL_ARTICLES = False
 FOUNDATION_ALTERNATE_FONTS = False
