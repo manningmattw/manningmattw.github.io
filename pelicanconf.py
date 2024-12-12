@@ -3,6 +3,7 @@ SITENAME = 'Manning the Software Horizon'
 SITEURL = "https://manningmattw.github.io"
 
 PATH = "content"
+OUTPUT_PATH  = ""
 THEME = "/home/manning/pelican-themes/foundation-default-colours"
 
 TIMEZONE = 'America/Chicago'
@@ -27,6 +28,7 @@ SOCIAL = (
     ("LinkedIn", "https://www.linkedin.com/in/manningmattw"),
 )
 
+DEFAULT_CATEGORY = "main"
 DEFAULT_PAGINATION = 10
 
 # Uncomment following line if you want document-relative URLs when developing
